@@ -3,9 +3,13 @@
 Creo que quiero hacer este post en 2 partes, pienso que puede ayudar a dejar un toque de expectación y misterio respecto a hacer o no una segunda parte.
 
 - Costo
+- sufrí?
+- Cómo es la tesis? 
+- Es muy brigido ?
+- Lo aplasé.
 - Tiempo, cuánto toma a la semana?
 - Cuánto dura?
-- Universidades.
+- Universidades, qué me hizo decidir esa universidad, qué comparé con el resto las mallas, las lucas, el tiempo que llevaban, los profes.
 - Por qué estudié un magister en AI.
 - De qué me ha servido.
 - Lo recomiendo o no.
@@ -19,7 +23,7 @@ Creo que quiero hacer este post en 2 partes, pienso que puede ayudar a dejar un 
 - Creo que un magister me ha ayudado a escalar en mi posición?
 - Es necesario tener un magister para ser lider o jefe de algo?
 - Si soy data scientist, sirve para mis labores ?
-- La información está en internet?
+- La información está en internet? o material académico, libros clases, youtube.
 - En qué creo yo que me ha aportado un magister o para qué cosas realmente ayuda?
 - Matriz de pros and cons.
 - Con todo esto podría ser una guía también quizás de que universidades actualmente están cursando o no un magister de AI.
