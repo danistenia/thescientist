@@ -23,14 +23,18 @@ Mi primera opción luego de investigar un poco fue el máster de la [Universidad
 Luego ya mirando opciones en Chile tenía:
 
 - El máster de Data Science o AI de la Adolfo Ibáñez. (Mi alma mater)
-- El máster de la Universidad de Chile que lo iban a lanzar el año siguiente a mi búsqueda. (Eso sí se estudiaba en la mañana)
+- El máster de la Universidad de Chile que lo iban a lanzar el año siguiente a mi búsqueda. (Lamentablemente se iba impartir en la mañana)
 - El máster de la Universidad del Desarrollo que me inspiró por esta [charla](https://www.youtube.com/watch?v=OcVMcsK43U0) de este profesor. (La verdad quedé LOCO con esa charla)
 - El MIA (Magister de inteligencia artificial) de la PUC que comenzaba a abrir sus postulaciones para su primera edición.
 
-Teniendo todas estas opciones decidí hacer una tabla super simple, nada sofisticada y mentiría si dijiera que hice un análisis muy acabado de cada una de las opciones. La tabla que hice fue más o menos, algo similar a esto:
+Teniendo todas estas opciones decidí hacer una tabla super simple, nada sofisticada. La tabla que hice fue más o menos, algo similar a esto (Agregué solo una columna que es el precio actual de los programas para que lo tengas de referencia): 
 
-| Universidad | Precio |  Comentario |
-|--------------|--------------|--------------|
-| Fila 1 Col 1 | Fila 1 Col 2 | Fila 1 Col 3 |
-| Fila 2 Col 1 | Fila 2 Col 2 | Fila 2 Col 3 |
-| Fila 3 Col 1 | Fila 3 Col 2 | Fila 3 Col 3 |
+| Universidad  | Programa     | Precio 2020  |  Precio 2024 |  Comentario  |
+|--------------|--------------|--------------|--------------|--------------|
+| Universidad Adolfo Ibáñez |  Magíster Inteligencia Artificial | $ 11.000.000 | $ 13.300.000 | comentario |
+| Universidad Adolfo Ibáñez | Magíster Data Science | $ 11.000.000 | Fila 1 Col 3 | comentario |
+| Universidad de Chile | Master of Data Science | None | $ 11.200.000 | comentario |
+| Universidad del Desarrollo | Magister en Data Science | $ 9.070.000 | None | comentario |
+| Pontificia Universidad Católica | Magister en Inteligencia Artificial | $ 14.700.000 | $ 16.000.000 | comentario |
+
+*Tabla con valores aproximados*
